@@ -1,0 +1,35 @@
+Guest Users 
+Guest user can view the website and checkout the information about rental cars.
+Guest user  can also enquiry  through contact us page.
+Register Users
+Anyone can register through registration page.
+After successful registration user can login with valid email and password. User can recover own password by providing some registered info.
+After successful login user can do following things–
+
+Car Booking
+View Car booking history
+Update His/Her profile
+Update his/her password
+Post Testimonials
+View Testimonials
+Logout
+Admin
+Admin is the super user of website who can manage  everything on the website. Admin can login through login page
+Admin Features–
+
+Admin can create vehicle brands
+Manage Vehicle Brands(Edit ,Delete)
+Post Vehicle
+Manage vehicle(Edit,Delete)
+Manage Booking(Admin can confirm and Cancel Booking)
+Admin Dashboard(Admin can view the count of reg users, total booking, total subscribers, total queries etc)
+Change Password(admin can change own password)
+logout
+
+Future scopes:-
+Manage Testimonials (Active and Inactive)
+Manage Contact us Query
+Admin Can the details of registered users
+admin can also update the page content
+Admin can update the contact us details
+Manage Subscribers
